@@ -11,6 +11,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="rafael js" height="30" widht="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
+  <img align="center" alt="rafael js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="rafael js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   
 </div>
