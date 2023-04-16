@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working like full stack developer
-- 🌱 I’m currently learning vue, vuex
+- 🌱 I’m currently learning vue, react
 - 📫 How to reach me: rafaelpianaro@gmail.com
 - ⚡ Fun fact: Like photograph so much
 
