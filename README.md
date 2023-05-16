@@ -16,6 +16,8 @@
   <img align="center" alt="rafael reactjs" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="rafael laravel" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" />
   <img align="center" alt="rafael php" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
+  <img align="center" alt="rafael php" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
           
 </div>
 
