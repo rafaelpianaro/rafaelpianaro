@@ -19,6 +19,8 @@
   <img align="center" alt="rafael composer" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />          
   <img align="center" alt="rafael php" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
   <img align="center" alt="rafael mysql" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="rafael linux" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+          
           
           
 </div>
