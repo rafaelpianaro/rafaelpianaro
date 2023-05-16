@@ -10,6 +10,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpianaro&layout=compact&langs_count=16&theme=dark" />
 </div> -->
 
+<!-- https://devicon.dev/ -->
+
 <div style="display: inline_block"><br>
   <img align="center" alt="rafael vscode" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="rafael js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
