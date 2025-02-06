@@ -44,7 +44,7 @@
 
 ### 🐍 Snake Eating My Contributions
 
-![Snake animation](https://github.com/rafaelpianaro/rafaelpianaro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rafaelpianaro/rafaelpianaro/output/dist/snake.svg)
 
 ---
 
