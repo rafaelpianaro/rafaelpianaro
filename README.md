@@ -42,12 +42,6 @@
 
 ---
 
-### 🐍 Snake Eating My Contributions
-
-![Snake animation](https://raw.githubusercontent.com/rafaelpianaro/rafaelpianaro/output/dist/snake.svg)
-
----
-
 ### 📫 Let's Connect!
 
 <div>
