@@ -1,6 +1,6 @@
 # Hi there, I'm Rafael Pianaro! 👋
 
-### Full Stack Developer 🚀
+### Full Stack Developer
 
 ---
 
