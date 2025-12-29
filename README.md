@@ -36,9 +36,13 @@
 ### 📊 GitHub Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelpianaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpianaro&layout=compact&langs_count=16&theme=dark" />
+  <!-- Card de Estatísticas Gerais -->
+  <img height="180em" src="github-readme-stats-eight-theta.vercel.app" />
+  
+  <!-- Card de Linguagens Mais Usadas -->
+  <img height="180em" src="github-readme-stats-eight-theta.vercel.app" />
 </div>
+
 
 ---
 
