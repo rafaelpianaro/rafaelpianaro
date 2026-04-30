@@ -70,6 +70,11 @@
 </div>
 -->
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rafaelpianaro&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
 ### 📫 Let's Connect!
 
 <p align="left">
